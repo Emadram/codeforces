@@ -1,0 +1,42 @@
+# Compiled object files and executables
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+
+# CMake and build directories
+CMakeFiles/
+CMakeCache.txt
+build/
+cmake-build-*/
+
+# Visual Studio files
+*.sln
+*.vcxproj*
+*.csproj*
+*.user
+*.ncb
+*.suo
+*.pdb
+
+# MonoDevelop files
+*.pidb
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+.env
+.venv
+
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db
