@@ -13,4 +13,5 @@ int main(){
                         --count;
         }
         std::cout << count << "\n";
+        return 0
 }
